@@ -227,7 +227,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
 .sidebar-checkbox {
   position: absolute;

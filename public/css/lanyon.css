@@ -110,21 +110,19 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title a {
   color: #505050;
 }
-.masthead-title small {
-  font-size: 75%;
-  font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
-}
-.masthead-title a:hover {
+.masthead-title a:hover{
   color: #ff7f50;
 }
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
   }
-  .masthead-title small {
+  .masthead-title .divider {
     display: none;
+  }
+  .masthead-title .tagline {
+    display: block;
+    font-size: 75%;
   }
 }
 

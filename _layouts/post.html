@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }} &middot; <i aria-hidden="true"></i> {% include read-time.html %}</span>
+  
+  {% if page.image %}
+    <img src="{{ site.github.url }}/public/img/{{ page.image }}">
+  {% endif %}
+
+  {% if page.image-link %}
+    <p>Photo by <a href="{{ page.image-link }}">{{ page.image-name }}</a></p>
+  {% endif %}
+  
+  {{ content }}
+</div>
+
+{% include related-posts.html %}

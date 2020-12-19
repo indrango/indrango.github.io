@@ -1,0 +1,25 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    <span class="post-date">{{ post.date | date_to_string }} &middot; <i aria-hidden="true"></i> {% include read-time.html %}</span>
+    {% if post.image %}
+    <div class="thumbnail-container">
+      <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/public/img/{{ post.image }}"></a>
+    </div>
+    {% endif %}
+    <p>
+      {{ post.content | strip_html | truncate: 200 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    </p>
+  </div>
+  {% endfor %}
+</div>

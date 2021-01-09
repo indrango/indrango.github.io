@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 40rem;
   }
 }
 
@@ -105,26 +105,31 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
 }
 .masthead-title a {
   color: #505050;
+  font-size: 28px;
+  font-weight: 600;
 }
 .masthead-title a:hover{
   color: #ff7f50;
 }
-@media (max-width: 48em) {
+@media (max-width: 38em) {
   .masthead-title {
     text-align: center;
+  }
+  .masthead-title a {
+    font-size: 24px;
   }
   .masthead-title .divider {
     display: none;
   }
   .masthead-title .tagline {
     display: block;
-    font-size: 75%;
+    font-size: 16px;
   }
 }
+
 
 /*
  * Thumbnail
@@ -223,7 +228,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 38em) {
   .sidebar-nav-item {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -357,7 +362,7 @@ a.sidebar-nav-item:focus {
   .page-title,
   .post-title,
   .post-title a {
-    font-size: 32px;
+    font-size: 28px;
   }
 }
 

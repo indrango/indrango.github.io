@@ -3,7 +3,7 @@ layout: post
 title: Berkomunitas Sambil Belajar Jadi Product Manager
 author: Indra Nugraha
 categories: Article
-tag: 
+tag: Product management
 image: dsi-event.png
 image-name: Data Science Indonesia
 image-link: https://datascience.or.id
@@ -30,7 +30,7 @@ Photo by [Tim Gouw](https://unsplash.com/@punttim?utm_source=medium&utm_medium=r
 
 Sebagai product manager hal wajib untuk mengetahui luar dan dalam tentang pengguna yang akan memakai produk yang telah dibuat. Seperti latar belakang pekerjaan, usia, masalah yang mereka hadapi. Oleh karena itu ada metode seperti user persona untuk mempermudah mengenali pengguna produk.
 
-Begitu juga ketika membuat program di komunitas, kami mempunyai pengguna atau lebih tepat disebut anggota yang mereka memiliki permasalahan tersendiri sehingga bergabung dengan komunitas. Kalo di produk kita membuat fitur maka di komunitas kita membuat sebuah inisiatif program. Program-program ini lah bentuk dari solusi dari masalah yang dialami oleh anggota komunitas.
+Begitu juga ketika membuat program di komunitas, kami mempunyai pengguna atau lebih tepat disebut anggota yang mereka memiliki permasalahan tersendiri sehingga bergabung dengan komunitas. Kalo di produk terbiasa membuat fitur maka di komunitas kami membuat sebuah inisiatif program. Program-program ini lah bentuk dari solusi dari masalah yang dialami oleh anggota komunitas.
 
 Seperti contoh terdapat masalah anggota komunitas yaitu sulit untuk mendapatkan asset material dari sebuah event seperti slide/ video rekaman/ <em>source code</em>. Disini kami membuat solusi berupa project LAM (Learning Asset Management) <em>psst! ini akan segera rilis</em>. Jadi kami menyediakan semacam file <em>public spreadsheet</em> yang berisi daftar kegiatan yang telah dilaksanakan beserta asset material yang dapat diakses secara langsung.
 

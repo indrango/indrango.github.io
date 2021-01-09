@@ -11,4 +11,4 @@ Outside of work I served as Head of Knowledge Management at the [Data Science In
 
 This blog discusses my thoughts and experiences with startup, product management, and AI. Hopefully what I write can give you a little perspective into what you are looking for.
 
-You can reach me via twitter [Twitter](https://twitter.com/indrango) or [Linkedin](https://www.linkedin.com/in/indrango/)
+You can reach me via [Twitter](https://twitter.com/indrango) or [Linkedin](https://www.linkedin.com/in/indrango/)

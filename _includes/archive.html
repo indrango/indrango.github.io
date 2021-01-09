@@ -1,0 +1,11 @@
+<ul class="posts">
+    {% for post in site.posts %}
+
+      <li itemscope>
+        <h3 class="archive-page"><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="post-date"><span><i aria-hidden="true"></i> {{ post.date | date_to_string }} &middot; <i aria-hidden="true"></i> {% include read-time.html %}</span></p>
+      </li>
+      
+    {% endfor %}
+  </ul>
+  

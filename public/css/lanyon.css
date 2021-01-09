@@ -27,6 +27,7 @@
  * Reverse layout
  * Themes
  * Footer
+ * Archive page
  */
 
 
@@ -357,7 +358,6 @@ a.sidebar-nav-item:focus {
   color: #ff7f50
 }
 
-
 @media (min-width: 38em) {
   .page-title,
   .post-title,
@@ -393,13 +393,14 @@ a.sidebar-nav-item:focus {
   padding-left: 0;
   list-style: none;
 }
-.related h2 {
+.related h1 {
   color: #ff7f50;
   text-decoration: underline;
-
+  font-size: 28px;
 }
 .related-posts h3 {
   margin-top: 0;
+  font-size: 24px;
 }
 .related-posts h3 a {
   color: #515151;
@@ -415,7 +416,14 @@ a.sidebar-nav-item:focus {
 .related-posts li a:hover small {
   color: #ff7f50;
 }
-
+@media (max-width: 38em) {
+  .related h1 {
+    font-size: 24px;
+  }
+  .related-posts h3 {
+    font-size: 18px;
+  }
+}
 
 /*
  * Pagination
@@ -637,6 +645,20 @@ a.pagination-item:hover {
   .social-icons {
     float: left;
     padding-top: 0px;
+  }
+}
+
+ 
+/*
+  Archive page
+*/
+
+.archive-page {
+  font-size: 24px;
+}
+@media (max-width: 38em) {
+  .archive-page {
+    font-size: 18px;
   }
 }
   

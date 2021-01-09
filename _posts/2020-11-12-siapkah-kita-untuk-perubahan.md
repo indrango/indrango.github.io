@@ -11,7 +11,7 @@ image-link: https://unsplash.com/photos/M6tN7AZ_bNs
 
 Bekerja di perusahaan <em>startup</em> selalu identik dengan kehidupan yang dinamis. Banyak cerita di luar sana tentang perusahaan yang baru dirintis tiba-tiba bangkrut, ataupun mendapat investasi yang sangat besar sehingga bisa menyandang status <em>unicorn</em>. Begitu juga kedinamisan dari organisasi ditentukan oleh banyak faktor seperti pasar yang berubah, teknologi yang terus berkembang ataupun desakan dari investor yang menuntut perubahan secara cepat.
 
-Saya sadar betul hal tersebut adalah resiko dalam bekerja yang sulit untuk dihindari. Opsinya hanya dua, apakah kita bertahan dengan tanggung jawab baru atau keluar untuk mengejar ambisi di bidang yang ingin ditekuni? Pada artikel kali ini, saya akan bercerita tantangan apa saja yang saya hadapi pada perubahan karir dan apa pelajaran yang saya dapat setelah bekerja lebih dari 6 bulan pada posisi ini.
+Saya sadar betul hal tersebut adalah resiko dalam bekerja yang sulit untuk dihindari. Opsinya hanya dua, apakah kita bertahan dengan tanggung jawab baru atau keluar untuk mengejar ambisi di bidang yang ingin ditekuni? Pada artikel kali ini, saya akan bercerita tantangan apa saja yang saya hadapi pada perubahan karir dan pelajaran yang saya dapat setelah bekerja lebih selama 6 bulan di bidang dataset operation di tahun 2019 lalu.
 
 ### Perubahan Itu Pasti
 ![](/public/img/post-20201022-img-1.png)

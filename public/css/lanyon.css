@@ -201,6 +201,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
+  margin-top: 82px;
 }
 .sidebar-nav-item {
   display: block;
@@ -224,11 +225,16 @@ a.sidebar-nav-item:focus {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }
+
 }
 
 @media (min-width: 38em) {
   .sidebar-nav-item {
     font-size: 18px;
+  }
+
+  .sidebar-nav {
+    margin-top: 70px;
   }
 }
 

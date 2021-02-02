@@ -2,7 +2,8 @@
 title:               Indra's Blog
 tagline:             'Musings on Product & AI'
 description:         'I’m Indra Nugraha, a Product Manager & AI Enthusiast from Jakarta, Indonesia. I enjoy exploring how a product that has AI technology can make people’s lives better.'
-url:                 http://indrango.github.io
+keyword:             'Product Management, AI, Product Manager'
+url:                 https://indranugraha.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty

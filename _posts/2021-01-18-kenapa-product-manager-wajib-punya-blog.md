@@ -16,6 +16,9 @@ Kemudian timbul pertanyaan, apa hubungannya resolusi 2021 dengan seorang PM yang
 Pasti gak seru yaa kalo setiap hal itu gak dilandasi dengan alasan yang kuat untuk kenapa dilakukan. Nah disini saya akan membagikan beberapa alasan yang saya pilih untuk membangun kebiasaan menulis dari perspektif pekerjaan saya sebagai seorang product manager (PM).
 
 ### Melatih Skill Pengembangan Product
+![](/public/img/post-20210118-img-1.jpg)
+
+Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/product-management?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 Untuk poin pertama ini pasti udah kebayang yaa kenapa harus memulai sebuah blog bagi seorang PM. Tentu saja dengan membuat sebuah blog bisa dibilang sedang membangun sebuah produk juga. Berikut adalah beberapa contoh pengaplikasian skill pengembangan produk yang bisa dilakukan pada sebuah blog.
 
@@ -26,6 +29,9 @@ Kemudian bisa melatih skill untuk memvalidasi sebuah hipotesa melalui blog. Enta
 Selain dua contoh diatas masih banyak banget hal-hal lain yang bisa dilakukan seperti melakukan competitor analysis, melakukan strategi marketing, optimasi untuk mencapai target metrik dan lainnya. Jadi dari poin pertama ini aja udah jelas yaa kenapa sangat perlu untuk memulai sebuah blog.
 
 ### Melatih Memampuan Storytelling
+![](/public/img/post-20210118-img-2.jpg)
+
+Photo by [Headway](https://unsplash.com/@headwayio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/presentation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 Ini salah satu skill yang saya ingin sekali bangun di tahun ini. Karena dikeseharian sebagai PM pasti sering menemui blok-blok komunikasi yang harus dilakukan baik secara lisan ataupun tertulis. Mulai dari diskusi bareng tim engineer untuk spek fitur, diskusi performa penjualan produk ataupun sampai diskusi panas untuk menentukan prioritas dari sebuah inisiatif.
 
@@ -34,6 +40,9 @@ Dengan adanya kemampuan storytelling yang baik saya rasa akan sangat membantu au
 Sebagai contoh, misal di sebuah product ada problem untuk masalah akurasi dari sistem kecerdasan buatan yang tidak sesuai dengan ekspektasi sehingga menjadi masalah di sisi pengguna. Dengan memiliki kemampuan storytelling yang baik kita bisa menjelaskan dengan cara yang lebih mudah dipahami dan dimengerti dibanding menggunakan jargon-jargon teknis yang terkadang sulit juga untuk dipahami pengguna.
 
 ### Membangun Personal Branding
+![](/public/img/post-20210118-img-3.jpg)
+
+Photo by [Matthew Osborn](https://unsplash.com/@matthewosborn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/presentation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
 Sebagai pekerja digital tentu saja identitas seseorang akan dilihat berdasarkan profil yang dibangun secara online. Penting untuk memiliki profil online yang sesuai dengan apa yang ingin bangun agar bisa menjadi identitas yang melekat dan membantu diri secara personal ataupun profesional. Banyak media yang bisa digunakan seperti Linkedin, Instagram, Youtube dan lainnya. Saya sendiri memilih blog sebagai media utama karena berhubungan dengan poin pertama yaitu untuk melatih skill product management.
 

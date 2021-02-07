@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-I'm Indra Nugraha, a Product Manager & AI Enthusiast from Jakarta, Indonesia. I enjoy exploring how a product that has AI technology can make people's lives better.
+Perkenalkan saya Indra Nugraha, seorang Produk Manager & penggiat AI dari Jakarta, Indonesia. Saya senang menjelajahi bagaimana sebuah produk yang memiliki teknologi AI dapat membuat hidup orang lebih baik.
 
-Currently, I work as Product Manager at [Nodeflux](https://www.nodeflux.io/). I started my career journey as an AI Engineer with coverage on building vision AI solutions in smart city industry. After two years, I was entrusted as Dataset Management Lead to build a new division to handle dataset operation.
+Saat ini, saya bekerja sebagai Produk Manager di [Nodeflux](https://www.nodeflux.io/). Saya memulai karir saya sebagai AI Engineer dengan cakupan membangun solusi *vision AI* di industri *smart city*. Setelah dua tahun, saya dipercaya untuk memimpin tim Dataset Management untuk membangun divisi baru yang bertugas menangani operasional pembuatan dataset.
 
-Outside of work, I served as Head of Knowledge Management at the [Data Science Indonesia](https://datascience.or.id/) community, a non-profit organization that aims to create a data-based ecosystem to improve community welfare. I lead several programs that ensure every knowledge about data can be distributed well to all Indonesian people.
+Di luar pekerjaan, saya berperan sebagai Head of Knowledge Management di komunitas [Data Science Indonesia](https://datascience.or.id/), sebuah organisasi non-profit yang bertujuan untuk menciptakan ekosistem berbasis data untuk meningkatkan kesejahteraan masyarakat. Saya memimpin beberapa program yang memastikan setiap pengetahuan tentang data dapat didistribusikan dengan baik ke seluruh masyarakat Indonesia.
 
-This blog discusses my thoughts and experiences with product management and AI. Hopefully what I write can give you a little perspective into what you are looking for.
+Blog ini membahas pemikiran dan pengalaman saya dengan produk management dan AI. Semoga apa yang saya bagikan dapat memberikan sedikit perspektif tentang apa yang anda cari.
 
-You can reach me via [Twitter](https://twitter.com/indrango) or [Linkedin](https://www.linkedin.com/in/indrango/)
+Anda dapat menghubungi saya melalui [Twitter](https://twitter.com/indrango) atau [Linkedin](https://www.linkedin.com/in/indrango/).

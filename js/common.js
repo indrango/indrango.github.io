@@ -21,9 +21,9 @@ document.addEventListener("DOMContentLoaded", function() {
     menuClose();
   });
 
-  toggleTheme.addEventListener("click", () => {
-    darkMode();
-  });
+  // toggleTheme.addEventListener("click", () => {
+  //   darkMode();
+  // });
 
   if (portfolioViewButton) {
     portfolioViewButton.addEventListener("click", () => {

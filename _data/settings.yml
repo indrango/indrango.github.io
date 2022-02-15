@@ -25,9 +25,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, my name's Indra. I'm Product Manager & AI Enthusiast.
-  hero__description:  I'm a product manager at an AI company in Jakarta, Indonesia. For almost four years I have worked in the industry from engineering, dataset operations, to product development. I'm excited to explore how AI-enabled products can make people's lives better.
-
+  hero__title: Hi, I'm Indra Nugraha
+  hero__description:  Product Manager and AI enthusiast based in Indonesia. I've over four years of experience from software engineering, operations management to product development. I'm excited to explore how AI-enabled products can make people's lives better.
 
 #-------------------------------
 # # Portfolio Settings

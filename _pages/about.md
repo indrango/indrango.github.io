@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/profile-large.png'
+# image: '/images/profile-large.png'
 ---
 
 Currently, I work as Product Manager at [Nodeflux](https://www.nodeflux.io/) where I handle a product for retail industry called [Retailmatix](https://retailmatix.com/) and internal platform product. I'm responsible for ensuring that every AI solution created provides real value to the user.
